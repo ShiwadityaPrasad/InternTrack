@@ -1,5 +1,5 @@
 
-const Internship = require("../models/Internship");
+const Internship = require("../models/internship");
 
 // GET: Sirf logged-in user ki internships fetch karna
 async function getInternships(req, res) {
